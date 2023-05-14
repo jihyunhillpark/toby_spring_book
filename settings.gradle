@@ -1,1 +1,2 @@
 rootProject.name = 'springbook'
+include('chapter_components:chapter1')
